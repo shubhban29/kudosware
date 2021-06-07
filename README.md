@@ -50,5 +50,5 @@ all the other endpoint are as described in the assignment sheet
 
 [SWAGGER HEROKU DEPLOYMENT](https://kudosware-swagger.herokuapp.com/docs/)
 
-[DJANGO HEROKU DEPLOYMENT](https://kudosware.herokuapp.com/)
+[DJANGO HEROKU DEPLOYMENT](https://kudosware.herokuapp.com/admin/)
 
