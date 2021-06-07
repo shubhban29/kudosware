@@ -9,7 +9,7 @@ from rest_framework.permissions import IsAuthenticated,IsAdminUser
 # Create your views here.
 
 
-#any user views
+#any user
 class UserToDoView(ViewSet):
     permission_classes = [IsAuthenticated]
     def retrieve(self, request, id):
