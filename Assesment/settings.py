@@ -79,6 +79,27 @@ WSGI_APPLICATION = 'Assesment.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "mssql",
+#         "NAME": "DATABASE_NAME",
+#         "USER": "root",
+#         "PASSWORD": "Shubham29@",
+#         "HOST": "localhost",
+#         "PORT": "3306",
+#         "OPTIONS": {"driver": "ODBC Driver 17 for SQL Server", 
+#         },
+#     },
+# }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'OPTIONS': {
+#             'read_default_file': 'my.cnf',
+#         },
+#     }
+# }
+
 
 DATABASES = {
     'default': {
